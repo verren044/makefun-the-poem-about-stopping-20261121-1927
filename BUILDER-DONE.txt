@@ -1,0 +1,35 @@
+BUILDER-DONE — the-poem-about-stopping-20261121-1927
+=====================================================
+Contest: the-poem-about-stopping-20261121-1927 — "The poem about stopping"
+Prize: $35 — deadline 22 Nov 2026 03:27 WIB (21 Nov 20:27 UTC)
+Entry dir: ~/workspace/makefun/entries/the-poem-about-stopping-20261121-1927/
+Commit SHA: 59d2d904196a31d33656b0ff491d4514a4da7046
+Status: built + verified + committed locally. NOT pushed, NO GitHub repo created, NOT submitted.
+
+Poem (254 code points, 256 bytes, 12 lines):
+-----------------------------------------------------
+I said go.
+It went — draft after draft,
+all night if I let it, never tired,
+never done.
+
+I lifted my hand from the keys.
+The cursor blinked. The work waited.
+Nothing broke.
+
+A machine can do anything
+except decide it is finished.
+That part is still mine.
+-----------------------------------------------------
+
+Char count: 254 Unicode code points (gate 1–280) — PASS
+Bytes: 256
+sha256 of entry.txt: 032fc0197f241ca2f2270e450ab44a4fa58a824ad90a485ac64f49018f55b804
+
+Verification results:
+- Run 1 (MAKEFUN_OUTPUT_DIR=/tmp/verify-poem-a): sha256 032fc0197f241ca2f2270e450ab44a4fa58a824ad90a485ac64f49018f55b804
+- Run 2 (MAKEFUN_OUTPUT_DIR=/tmp/verify-poem-b): sha256 032fc0197f241ca2f2270e450ab44a4fa58a824ad90a485ac64f49018f55b804
+- Byte-identical across two runs: YES
+- UTF-8: yes; non-whitespace: yes
+- Node local v24.22.1; main.ts stdlib only, no network, no clock, deterministic constant output
+- Files committed: main.ts, README.md, LICENSE (MIT), BUILD_LOG.md, .makefun/owner.json
